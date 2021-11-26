@@ -68,3 +68,4 @@ flag=l;
 if(flag==0)
     printf("Symble not found\n");
 }
+//Binary  to Octal
